@@ -67,6 +67,6 @@ const solve = (entries, part) => {
     }
 }
 
-const expected = part => part === 1 ? 458 : 278064990;
+const expected = part => part === 1 ? 458 : 342;
 
 module.exports = {solve,expected};
