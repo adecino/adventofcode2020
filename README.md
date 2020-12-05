@@ -13,14 +13,14 @@ To solve all puzzles for this year
 node index.js
 ```
 
-To run all tests for 2015:
+To run all tests for 2020:
 ```
-node index.js 2015
+node index.js 2020
 ```
 
-To run tests for 2015 day 10
+To run tests for 2020 day 10
 ```
-node index.js 2015 10
+node index.js 2020 10
 ```
 
 To run Jasmine unit tests
